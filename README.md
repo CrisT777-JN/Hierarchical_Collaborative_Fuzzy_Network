@@ -10,13 +10,13 @@ Brain-computer Interface (BCI) technology enables direct communication between t
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@ARTICLE{11300783,
+@ARTICLE{Sun2026Adaptive,
   author={Sun, Yingjie and Yao, Jian and Chen, Tao and Xia, Kaijian and Jiang, Yizhang and Qian, Pengjiang},
   journal={IEEE Transactions on Fuzzy Systems}, 
   title={Adaptive Fuzzy-Convolution and TSK-Guided Attention for Interpretable EEG MI Decoding}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-16},
+  year={2026},
+  volume={34},
+  number={2},
+  pages={593-607},
   doi={10.1109/TFUZZ.2025.3643920}}
 ```
